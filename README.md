@@ -1,5 +1,3 @@
 # Demo
 
-Some Changes  
-Some Changes2 
-CHnages 3 mkjhkjh
+Changes in README file
